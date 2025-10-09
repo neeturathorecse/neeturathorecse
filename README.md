@@ -1,4 +1,4 @@
-<h2 align="left">🌸Hey! I'm Neetu Rathore.</h2>
+<h2 align="left">🌸Hola! I'm Neetu Rathore.</h2>
 
 ###
 
