@@ -29,7 +29,7 @@
 
 ###
 
-<h2 align="left">👨‍💻Programming & scripting Languages :</h2>
+<h6 align="left">👨‍💻Programming & scripting Languages :</h6>
 
 ###
 
