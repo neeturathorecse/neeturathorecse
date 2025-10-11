@@ -25,39 +25,45 @@
 </div>
 
 ###
-<h3 align="left">🛠️ Tech Stack:</h3>
 
 <div align="center">
+<h3 align="left">🛠️ Tech Stack:</h3>
 
-<table style="width: 90%; border-spacing: 12px;">
+<table style="width:100%;">
   <tr>
-    <td align="center" width="30%" style="border: 2px solid #555; border-radius: 10px; padding: 18px;">
-      <h6>👨‍💻 Programming Languages & Scripting</h6>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42" alt="HTML5"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42" alt="CSS3"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" alt="Python"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="42" alt="Bash"/>
+   <td valign="top" width="33%">
+      <h3 align="center">👨‍💻 Programming Languages & Scripting</h3>
+      <div align="center">
+        <a href="#"><img style="margin:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" height="45"/></a>
+        <a href="#"><img style="margin:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" height="45"/></a>
+        <a href="#"><img style="margin:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="45"/></a>
+        <a href="#"><img style="margin:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" height="45"/></a>
+      </div>
     </td>
 
-  <td align="center" width="30%" style="border: 2px solid #555; border-radius: 10px; padding: 18px;">
-      <h6>☁️ Cloud & DevOps</h6>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="42" alt="AWS"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="42" alt="GitLab"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="42" alt="GitHub"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" alt="Git"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="42" alt="Kubernetes"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="42" alt="Ansible"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="42" alt="Jenkins"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="42" alt="Terraform"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="42" alt="Docker"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="42" alt="Argo CD"/>
+   <td valign="top" width="33%">
+  <h3 align="center">☁️ Cloud & DevOps</h3>
+      <div align="center">
+        <a href="#"><img style="margin:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" alt="AWS" height="45"/></a>
+        <a href="#"><img style="margin:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" height="45"/></a>
+        <a href="#"><img style="margin:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="45"/></a>
+        <a href="#"><img style="margin:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="45"/></a>
+        <a href="#"><img style="margin:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" height="45"/></a>
+        <a href="#"><img style="margin:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" alt="Ansible" height="45"/></a>
+        <a href="#"><img style="margin:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" alt="Jenkins" height="45"/></a>
+        <a href="#"><img style="margin:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" height="45"/></a>
+        <a href="#"><img style="margin:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="45"/></a>
+        <a href="#"><img style="margin:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" alt="ArgoCD" height="45"/></a>
+      </div>
     </td>
 
-   <td align="center" width="30%" style="border: 2px solid #555; border-radius: 10px; padding: 18px;">
-      <h6>🗄️ Databases & Monitoring</h6>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="42" alt="MySQL"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="42" alt="Prometheus"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="42" alt="Grafana"/>
+  <td valign="top" width="33%">
+   <h3 align="center">🗄️ Databases & Monitoring</h3>
+      <div align="center">
+        <a href="#"><img style="margin:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="45"/></a>
+        <a href="#"><img style="margin:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" alt="Prometheus" height="45"/></a>
+        <a href="#"><img style="margin:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="Grafana" height="45"/></a>
+      </div>
     </td>
   </tr>
 </table>
