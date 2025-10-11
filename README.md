@@ -1,11 +1,4 @@
 ![Profile views](https://komarev.com/ghpvc/?username=neeturathorecse&label=Profile%20views&color=0e75b6&style=flat)
-
-<div align="center">
-  <img src="https://github.com/neeturathorecse/neeturathorecse/blob/main/coding.gif" width="400" alt="Coding GIF">
-</div>
-
-
-
 <h1 align="left">🌸Hola! I'm Neetu Rathore.</h1>
 
 ###
