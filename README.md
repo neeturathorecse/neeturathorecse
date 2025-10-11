@@ -25,11 +25,11 @@
 
 ###
 
-<h4 align="left">🛠️ Tech Stack:</h4>
+<h2 align="left">🛠️ Tech Stack:</h2>
 
 ###
 
-<h6 align="left">👨‍💻Programming & scripting Languages :</h6>
+<h2 align="left">👨‍💻Programming & scripting Languages :</h2>
 
 ###
 
