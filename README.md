@@ -1,4 +1,5 @@
-<h2 align="left">🌸Hola! I'm Neetu Rathore.</h2>
+![Profile views](https://komarev.com/ghpvc/?username=neeturathorecse&label=Profile%20views&color=0e75b6&style=flat)
+<h1 align="left">🌸Hola! I'm Neetu Rathore.</h1>
 
 ###
 
