@@ -4,13 +4,13 @@
 ###
 
 <p align="left">
-  👨‍💻 I’m currently exploring <b>DevOps, Cloud Technologies, and CI/CD Pipelines</b> <br><br>
+  👨‍💻 I’m currently exploring DevOps, Cloud Technologies, and CI/CD Pipelines<br><br>
   🌱 Always learning about emerging technologies and best practices <br><br>
   📫 Connect with me on 
   <a href="https://www.linkedin.com/in/neeturathorecse/" target="_blank">LinkedIn</a> <br><br>
-  📄 Check out my <b>DevOps journey and experiences</b> on 
+  📄 Check out my DevOps journey and experiences on 
   <a href="https://www.linkedin.com/in/neeturathorecse/" target="_blank">LinkedIn</a> <br><br>
-  ⚡ Fun fact: <b>I love automating things that make life easier!</b>
+  ⚡ Fun fact: I love automating things that make life easier!
 </p>
 
 ###
