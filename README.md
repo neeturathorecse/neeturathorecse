@@ -60,11 +60,11 @@
       <div align="center">
         <a href="#"><img style="margin:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" alt="AWS" height="45"/></a>
         <a href="#"><img style="margin:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" height="45"/></a>
-        <a href="#"><img style="margin:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="45"/></a>
+        <a href="#" target="_blank"> <img src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/GitHub.png" width="48" height="45" alt="GitHub" /></a>    
         <a href="#"><img style="margin:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="45"/></a>
         <a href="#"><img style="margin:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" height="45"/></a>
         <a href="#"><img style="margin:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" alt="Ansible" height="45"/></a>
-        <a href="#"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="45"/></a>
+        <a href="#"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="48" height="45"/></a>
         <a href="#"><img style="margin:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" height="45"/></a>
         <a href="#"><img style="margin:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="45"/></a>
         <a href="#"><img style="margin:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" alt="ArgoCD" height="45"/></a>
