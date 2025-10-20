@@ -19,18 +19,23 @@
 <h3 align="left">🔗 Connect with Me:</h3>
 
 ###
-
 <div align="left">
   <a href="https://www.linkedin.com/in/neeturathorecse/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" 
-         width="52" height="40" alt="LinkedIn logo" />
+         width="38" height="38" alt="LinkedIn logo" />
   </a>
 
   <a href="https://www.hackerrank.com/profile/neeturathorecse" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" 
-         width="52" height="40" alt="HackerRank logo" />
+         width="38" height="38" alt="HackerRank logo" />
+  </a>
+
+  <a href="https://github.com/neeturathorecse" target="_blank">
+    <img src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/GitHub.png" 
+         width="38" height="38" alt="GitHub" />
   </a>
 </div>
+
 
 ###
 
