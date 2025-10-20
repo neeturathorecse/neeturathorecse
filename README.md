@@ -64,7 +64,7 @@
         <a href="#"><img style="margin:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="45"/></a>
         <a href="#"><img style="margin:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" height="45"/></a>
         <a href="#"><img style="margin:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" alt="Ansible" height="45"/></a>
-        <a href="#"><img style="margin:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" alt="Jenkins" height="45"/></a>
+        <a href="#"><img style="margin:10px" src="img/pngegg.png" alt="Jenkins" height="45"/></a>
         <a href="#"><img style="margin:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" height="45"/></a>
         <a href="#"><img style="margin:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="45"/></a>
         <a href="#"><img style="margin:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" alt="ArgoCD" height="45"/></a>
