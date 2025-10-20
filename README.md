@@ -4,14 +4,15 @@
 ###
 
 <p align="left">
-  👨‍💻 I’m currently exploring DevOps, Cloud Technologies, and CI/CD Pipelines<br><br>
-  🌱 Always learning about emerging technologies and best practices <br><br>
-  📫 Connect with me on 
-  <a href="https://www.linkedin.com/in/neeturathorecse/" target="_blank">LinkedIn</a> <br><br>
-  📄 Check out my DevOps journey and experiences on 
-  <a href="https://www.linkedin.com/in/neeturathorecse/" target="_blank">LinkedIn</a> <br><br>
-  ⚡ Fun fact: I love automating things that make life easier!
+  👩‍💻 <b>I’m currently exploring:</b> DevOps, Cloud Technologies, and CI/CD Pipelines<br><br>
+  🌱 <b>Always learning</b> about emerging technologies and best practices<br><br>
+  📫 <b>Connect with me on:</b>
+  <a href="https://www.linkedin.com/in/neeturathorecse/" target="_blank">LinkedIn</a><br><br>
+  📄 <b>Follow my DevOps journey:</b>
+  <a href="https://www.linkedin.com/in/neeturathorecse/" target="_blank">LinkedIn</a><br><br>
+  ⚡ <b>Fun fact:</b> I love automating things that make life easier!
 </p>
+
 
 ###
 
@@ -20,11 +21,19 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
+  <a href="https://www.linkedin.com/in/neeturathorecse/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" 
+         width="52" height="40" alt="LinkedIn logo" />
+  </a>
+
+  <a href="https://www.hackerrank.com/profile/neeturathorecse" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" 
+         width="52" height="40" alt="HackerRank logo" />
+  </a>
 </div>
 
 ###
+
 
 <div align="center">
 <h3 align="left">🛠️ Tech Stack:</h3>
