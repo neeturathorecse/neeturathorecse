@@ -11,10 +11,17 @@
   📄 <b>Follow my DevOps journey:</b>
   <a href="https://www.linkedin.com/in/neeturathorecse/" target="_blank">LinkedIn</a><br><br>
   ⚡ <b>Fun fact:</b> I love automating things that make life easier!
+
+  
 </p>
 
-
-###
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 <h3 align="left">🔗 Connect with Me:</h3>
 
@@ -83,4 +90,13 @@
 </table>
 
 </div>
+<br/>
+
+![gifgithub](https://github.com/user-attachments/assets/54dc1f7a-f327-43ab-ae9c-58c7421eee39)
+
+<br/>
+
+<a href="https://github.com/CelaDaniel" target="_blank">
+  <img align="right" src="https://img.icons8.com/material-outlined/24/ffffff/github.png" alt="GitHub Icon">
+</a>
 
