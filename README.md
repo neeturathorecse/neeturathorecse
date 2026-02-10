@@ -46,7 +46,7 @@
 <table style="width:100%;">
   <tr>
    <td valign="top" width="33%">
-      <h3 align="center">👨‍💻 Programming Languages & Scripting</h3>
+      <h3 align="center">👨‍💻 Programming Languages & Scripting:</h3>
       <div align="center">
         <a href="#"><img style="margin:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" height="45"/></a>
         <a href="#"><img style="margin:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" height="45"/></a>
@@ -57,7 +57,7 @@
     </td>
 
    <td valign="top" width="33%">
-  <h3 align="center">🛠️ DevOps Tools</h3>
+  <h3 align="center">🛠️ DevOps Tools:</h3>
       <div align="center">
         <a href="#"><img style="margin:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" height="45"/></a>
         <a href="#"><img style="margin:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="45"/></a>
@@ -72,7 +72,7 @@
     </td>
 
   <td valign="top" width="33%">
-   <h3 align="center">☁️ Cloud & Monitoring</h3>
+   <h3 align="center">☁️ Cloud & Monitoring:</h3>
       <div align="center">
         <a href="#"><img style="margin:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" alt="AWS" height="45"/></a>
         <a href="#"><img style="margin:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" alt="Prometheus" height="45"/></a>
