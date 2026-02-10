@@ -27,7 +27,7 @@
          width="38" height="38" alt="LinkedIn logo" />
   </a>
 
-  <a href="https://www.hackerrank.com/profile/neeturathore1" target="_blank">
+  <a href="https://www.hackerrank.com/profile/neeturathorecse" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" 
          width="38" height="38" alt="HackerRank logo" />
   </a>
